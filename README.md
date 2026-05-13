@@ -4,11 +4,11 @@
 
 I build modern SaaS platforms, scalable business applications, and responsive web experiences using technologies like React, Next.js, TypeScript, Firebase, PostgreSQL, and Tailwind CSS.
 
-Focused on creating production-grade applications with strong UI/UX, real-world business functionality, and scalable architecture.
+Focused on building production-grade applications with scalable architecture, strong UI/UX, and real-world business functionality.
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,25 +40,22 @@ Focused on creating production-grade applications with strong UI/UX, real-world 
 
 ## CleanOps AI
 Production-grade multi-tenant SaaS platform for cleaning businesses featuring:
-- AI business insights
-- Crew management
+- AI-powered business insights
+- Crew & customer management
 - Analytics dashboard
-- Job scheduling
-- Customer management
-- Reports & CSV exports
+- Job scheduling system
+- Reporting & CSV exports
 
 **Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL, OpenAI, Tailwind CSS
 
 ---
 
 ## MoveMaster Pro
-Full-stack moving company platform with:
+Production-grade moving company SaaS platform featuring:
 - Real-time quote system
-- Admin dashboard
-- JWT authentication
+- Full admin dashboard
 - Stripe integration
-- Email services
-- Multi-step booking flow
+- Customer booking workflow
 
 **Tech Stack:** Next.js, TypeScript, Firebase, Node.js, Express
 
@@ -67,11 +64,9 @@ Full-stack moving company platform with:
 ## PropVault
 Modern GTA real estate marketplace platform featuring:
 - Advanced property filtering
-- User dashboard
-- Property comparison
-- Admin CRM system
-- Firebase real-time database
-- Authentication system
+- User dashboard & saved listings
+- Property comparison system
+- Admin CRM platform
 
 **Tech Stack:** Next.js, TypeScript, Firebase, Tailwind CSS
 
@@ -79,24 +74,12 @@ Modern GTA real estate marketplace platform featuring:
 
 ## FreelanceFlow
 Freelance business management SaaS platform featuring:
-- Client management
-- Kanban task boards
+- Client & project management
 - Invoice generation
 - Analytics dashboard
-- Authentication system
 - REST API architecture
 
 **Tech Stack:** Next.js, PostgreSQL, Prisma, Stripe, TypeScript
-
----
-
-## Current Focus
-- Frontend Engineering
-- Full-Stack SaaS Development
-- System Design
-- API Engineering
-- Scalable Web Architecture
-- UI/UX Focused Development
 
 ---
 
@@ -118,17 +101,3 @@ marlon.haynes.dev@gmail.com
 ![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonHaynes&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonHaynes&layout=compact&theme=tokyonight)
-
----
-
-# About Me
-
-- Software Engineering Technology Student
-- Frontend & Full-Stack Developer
-- Building production-grade SaaS applications
-- Passionate about scalable UI/UX focused systems
-- Actively expanding skills in cloud, APIs, and enterprise architecture
-
----
-
-⭐ Always building, improving, and learning.
