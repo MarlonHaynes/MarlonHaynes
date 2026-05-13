@@ -2,9 +2,9 @@
 
 ## Frontend / Full-Stack Developer
 
-I build modern SaaS platforms, scalable business applications, and responsive web experiences using technologies like React, Next.js, TypeScript, Firebase, PostgreSQL, and Tailwind CSS.
+Building modern SaaS platforms, scalable business applications, and responsive web experiences using React, Next.js, TypeScript, Firebase, PostgreSQL, and Tailwind CSS.
 
-Focused on building production-grade applications with scalable architecture, strong UI/UX, and real-world business functionality.
+Focused on production-grade applications with scalable architecture, strong UI/UX, and real-world business functionality.
 
 ---
 
@@ -39,47 +39,30 @@ Focused on building production-grade applications with scalable architecture, st
 # Featured Projects
 
 ## CleanOps AI
-Production-grade multi-tenant SaaS platform for cleaning businesses featuring:
-- AI-powered business insights
-- Crew & customer management
-- Analytics dashboard
-- Job scheduling system
-- Reporting & CSV exports
+Production-grade cleaning business SaaS platform with analytics, scheduling, AI insights, and customer management.
 
-**Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL, OpenAI, Tailwind CSS
+**Stack:** Next.js • TypeScript • Prisma • PostgreSQL • OpenAI
 
 ---
 
 ## MoveMaster Pro
-Production-grade moving company SaaS platform featuring:
-- Real-time quote system
-- Full admin dashboard
-- Stripe integration
-- Customer booking workflow
+Full-stack moving company platform with quoting, booking workflows, Stripe integration, and admin dashboards.
 
-**Tech Stack:** Next.js, TypeScript, Firebase, Node.js, Express
+**Stack:** Next.js • TypeScript • Firebase • Express
 
 ---
 
 ## PropVault
-Modern GTA real estate marketplace platform featuring:
-- Advanced property filtering
-- User dashboard & saved listings
-- Property comparison system
-- Admin CRM platform
+Modern GTA real estate marketplace with filtering, dashboards, CRM features, and authentication.
 
-**Tech Stack:** Next.js, TypeScript, Firebase, Tailwind CSS
+**Stack:** Next.js • Firebase • TypeScript • Tailwind CSS
 
 ---
 
 ## FreelanceFlow
-Freelance business management SaaS platform featuring:
-- Client & project management
-- Invoice generation
-- Analytics dashboard
-- REST API architecture
+Freelancer management SaaS platform with invoicing, analytics, project tracking, and REST APIs.
 
-**Tech Stack:** Next.js, PostgreSQL, Prisma, Stripe, TypeScript
+**Stack:** Next.js • PostgreSQL • Prisma • Stripe
 
 ---
 
