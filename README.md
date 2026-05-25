@@ -39,6 +39,7 @@ Focused on building production grade applications with scalable architecture, st
 # Featured Projects
 
 ## CleanOps AI
+Live: https://cleanops-eta.vercel.app/
 Production grade multi tenant SaaS platform for cleaning businesses featuring:
 - AI powered business insights
 - Crew & customer management
@@ -51,6 +52,7 @@ Production grade multi tenant SaaS platform for cleaning businesses featuring:
 ---
 
 ## MoveMaster Pro
+Live: https://movemaster-seven.vercel.app/
 Production grade moving company SaaS platform featuring:
 - Real-time quote system
 - Full admin dashboard
@@ -63,6 +65,7 @@ Production grade moving company SaaS platform featuring:
 
 ## PropVault
 Modern GTA real estate marketplace platform featuring:
+Live: https://prop-vault-sage.vercel.app/
 - Advanced property filtering
 - User dashboard & saved listings
 - Property comparison system
@@ -72,14 +75,18 @@ Modern GTA real estate marketplace platform featuring:
 
 ---
 
-## FreelanceFlow
-Freelance business management SaaS platform featuring:
-- Client & project management
-- Invoice generation
-- Analytics dashboard
-- REST API architecture
+## Noir Gym Platform
+Luxury fitness booking platform featuring:
+Live: https://noir-gym-platform.vercel.app/
+- Multi-step membership signup flow
+- Trainer and class booking system
+- Role-based dashboards for members and admins
+- Booking management and membership controls
+- Checkout workflow with billing UI
+- Responsive mobile-first design
+- Dark luxury branding and modern UI/UX
 
-**Tech Stack:** Next.js, PostgreSQL, Prisma, Stripe, TypeScript
+**Tech Stack:** React 18, TypeScript, Vite, React Router, CSS Modules
 
 ---
 
