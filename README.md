@@ -105,6 +105,17 @@ Luxury fitness booking platform with member and admin workflows.
 
 ---
 
+### Web Alchemist Labs Ecommerce
+**[Live Demo](https://webalchemistlabs-ecommerce.vercel.app/)**
+Production-style portfolio ecommerce app with storefront, payments, and admin tools.
+**Features:**
+- Product catalog, cart, and responsive shop UI
+- Firebase authentication and customer order history
+- Stripe Checkout with order confirmation flow
+- Admin dashboard for products, orders, and revenue
+- Firestore for catalog, orders, and user data
+**Tech Stack:** Next.js, React, TypeScript, Firebase, Stripe, Vercel
+
 ## Connect With Me
 
 **LinkedIn:**  
