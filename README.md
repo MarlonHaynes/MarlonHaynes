@@ -126,13 +126,17 @@ Luxury fitness booking platform with member and admin workflows.
 **[Live Demo](https://webalchemistlabs-ecommerce.vercel.app/)**
 Production-style portfolio ecommerce app with storefront, payments, and admin tools.
 **Features:**
-- Product catalog, cart, and responsive shop UI
-- Firebase authentication and customer order history
-- Stripe Checkout with order confirmation flow
-- Admin dashboard for products, orders, and revenue
-- Firestore for catalog, orders, and user data
-**Tech Stack:** Next.js, React, TypeScript, Firebase, Stripe, Vercel
-
+- Product catalog with category filtering, product detail views, and responsive storefront UI
+- Cart and checkout flow with Firebase-authenticated users
+- Stripe Checkout integration for secure online payments (CAD)
+- Order success flow that records completed purchases to Firestore
+- Customer account dashboard with order history and order details
+- Admin dashboard with KPIs (total orders, revenue, inventory units, low-stock alerts)
+- Product management (add, edit, delete) with image, stock, and pricing controls
+- Order management system with payment status, fulfillment status, and order detail view
+- 
+**Tech Stack:** Next.js, React, TypeScript, Firebase Auth, Cloud Firestore, Stripe Checkout
+  
 ## Connect With Me
 
 **LinkedIn:**  
@@ -145,9 +149,3 @@ https://marlonhaynes.vercel.app/
 marlon.haynes.dev@gmail.com
 
 ---
-
-## GitHub Stats
-
-![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonHaynes&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonHaynes&layout=compact&theme=tokyonight)
