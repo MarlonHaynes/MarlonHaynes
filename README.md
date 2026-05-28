@@ -44,13 +44,18 @@ Focused on building production-grade applications with scalable architecture, st
 Production-grade multi-tenant SaaS platform for cleaning businesses.
 
 **Features**
-- AI-powered business insights
-- Crew and customer management
-- Analytics dashboard
-- Job scheduling system
-- Reporting and CSV exports
+- AI-powered business insights with contextual recommendations
+- End to end booking workflow (public request to confirmed job)
+- Role-based platform (Admin, Manager, Customer) with tailored experiences
+- Job operations hub with status pipeline, crew assignment, and scheduling
+- Invoice and payment management with Stripe checkout, deposits, and refunds
+- Analytics dashboard for revenue, services, locations, and crew performance
+- Quote pipeline from draft to approval and job conversion
+- Customer portal with booking history, invoice status, and online payments
+- Reporting and CSV exports for operational and financial data
+- Production-ready demo mode with seeded data for instant evaluation
 
-**Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL, OpenAI, Tailwind CSS
+**Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL, NextAuth, Stripe, OpenAI, Tailwind CSS, Zustand, Recharts
 
 ---
 
@@ -61,12 +66,18 @@ Production-grade multi-tenant SaaS platform for cleaning businesses.
 Production-grade moving company SaaS platform.
 
 **Features**
-- Real-time quote system
-- Full admin dashboard
-- Stripe integration
-- Customer booking workflow
-
-**Tech Stack:** Next.js, TypeScript, Firebase, Node.js, Express
+- 5-step quote wizard with live pricing and detailed review step
+- Server-validated pricing engine (distance, move size, add-ons, floors/elevator, specialty items)
+- Complete booking lifecycle management (pending, confirmed, in-progress, completed, cancelled)
+- Admin operations dashboard with KPIs (quotes, deposits, pipeline, status distribution)
+- Quote management system with search/filter, status updates, and delete support
+- Job + invoice detail workflows with deposit and payment tracking
+- Role-based authentication with customer/admin experiences
+- City/service pages, crew, reviews, and blog content for SEO + trust
+- Demo fallback mode for no key local testing
+- Responsive production style UI for desktop and mobile
+  
+**Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL, Stripe, OpenAI, Tailwind CSS
 
 ---
 
@@ -77,10 +88,13 @@ Production-grade moving company SaaS platform.
 Modern GTA real estate marketplace platform.
 
 **Features**
-- Advanced property filtering
-- User dashboard and saved listings
-- Property comparison system
-- Admin CRM platform
+- Advanced GTA property filtering (city, price, type, beds, baths, sqft, amenities)
+- Interactive map search with listing-side panel and location-based browsing
+- Rich property detail pages with gallery, key stats, and inquiry workflow
+- Client dashboard for saved listings, inquiries, and personalized activity
+- Admin CRM dashboard for managing listings, agents, and incoming inquiries
+- Mortgage calculator for quick payment and affordability estimates
+- Responsive, production-style UI built for desktop and mobile
 
 **Tech Stack:** Next.js, TypeScript, Firebase, Tailwind CSS
 
@@ -93,13 +107,16 @@ Modern GTA real estate marketplace platform.
 Luxury fitness booking platform with member and admin workflows.
 
 **Features**
-- Multi-step membership signup flow
-- Trainer and class booking system
-- Role-based dashboards for members and admins
-- Booking management and membership controls
-- Checkout workflow with billing UI
-- Responsive mobile-first design
-- Dark luxury branding and modern UI/UX
+**Features**
+- Luxury-first public experience with cinematic hero, premium branding, and conversion-focused CTAs
+- Full class discovery flow with category filtering, trainer context, capacity indicators, and booking shortcuts
+- 4-step booking journey (class, date/time, member details, confirmation) with a custom interactive calendar
+- Membership experience with clear tier comparison (Initiate, Adept, Sovereign), pricing, and benefit breakdowns
+- Role-based authentication with protected routes for members and admins
+- Member dashboard for upcoming classes, booking history, membership status, and profile management
+- Admin control panel for KPI tracking, monthly revenue insights, recent bookings, and member operations
+- Toast feedback, loading states, and polished micro-interactions for production-style UX
+- Fully responsive interface optimized for desktop and mobile
 
 **Tech Stack:** React 18, TypeScript, Vite, React Router, CSS Modules
 
