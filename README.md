@@ -8,7 +8,7 @@
 
 📧 Email: marlon.haynes.dev@gmail.com
 
-I build production-grade business applications, SaaS platforms, and digital solutions using React, Next.js, TypeScript, Firebase, PostgreSQL, and modern cloud technologies.
+I build production grade business applications, SaaS platforms, and digital solutions using React, Next.js, TypeScript, Firebase, PostgreSQL, and modern cloud technologies.
 
 Focused on scalable architecture, API integrations, business workflows, authentication systems, and delivering real-world solutions that solve operational challenges.
 
@@ -47,19 +47,19 @@ Focused on scalable architecture, API integrations, business workflows, authenti
 
 [Live Demo](https://cleanops-eta.vercel.app/)
 
-Production-grade multi-tenant SaaS platform for cleaning businesses.
+Production grade multi tenant SaaS platform for cleaning businesses.
 
 **Features**
-- AI-powered business insights with contextual recommendations
+- AI powered business insights with contextual recommendations
 - End to end booking workflow (public request to confirmed job)
-- Role-based platform (Admin, Manager, Customer) with tailored experiences
+- Role based platform (Admin, Manager, Customer) with tailored experiences
 - Job operations hub with status pipeline, crew assignment, and scheduling
 - Invoice and payment management with Stripe checkout, deposits, and refunds
 - Analytics dashboard for revenue, services, locations, and crew performance
 - Quote pipeline from draft to approval and job conversion
 - Customer portal with booking history, invoice status, and online payments
 - Reporting and CSV exports for operational and financial data
-- Production-ready demo mode with seeded data for instant evaluation
+- Production ready demo mode with seeded data for instant evaluation
 
 **Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL, NextAuth, Stripe, OpenAI, Tailwind CSS, Zustand, Recharts
 
@@ -69,16 +69,16 @@ Production-grade multi-tenant SaaS platform for cleaning businesses.
 
 [Live Demo](https://movemaster-seven.vercel.app/)
 
-Production-grade moving company SaaS platform.
+Production grade moving company SaaS platform.
 
 **Features**
-- 5-step quote wizard with live pricing and detailed review step
-- Server-validated pricing engine (distance, move size, add-ons, floors/elevator, specialty items)
+- 5 step quote wizard with live pricing and detailed review step
+- Server validated pricing engine (distance, move size, add-ons, floors/elevator, specialty items)
 - Complete booking lifecycle management (pending, confirmed, in-progress, completed, cancelled)
 - Admin operations dashboard with KPIs (quotes, deposits, pipeline, status distribution)
 - Quote management system with search/filter, status updates, and delete support
 - Job + invoice detail workflows with deposit and payment tracking
-- Role-based authentication with customer/admin experiences
+- Role based authentication with customer/admin experiences
 - City/service pages, crew, reviews, and blog content for SEO + trust
 - Demo fallback mode for no key local testing
 - Responsive production style UI for desktop and mobile
@@ -95,12 +95,12 @@ Modern GTA real estate marketplace platform.
 
 **Features**
 - Advanced GTA property filtering (city, price, type, beds, baths, sqft, amenities)
-- Interactive map search with listing-side panel and location-based browsing
+- Interactive map search with listing side panel and location based browsing
 - Rich property detail pages with gallery, key stats, and inquiry workflow
 - Client dashboard for saved listings, inquiries, and personalized activity
 - Admin CRM dashboard for managing listings, agents, and incoming inquiries
 - Mortgage calculator for quick payment and affordability estimates
-- Responsive, production-style UI built for desktop and mobile
+- Responsive, production style UI built for desktop and mobile
 
 **Tech Stack:** Next.js, TypeScript, Firebase, Tailwind CSS
 
@@ -113,15 +113,14 @@ Modern GTA real estate marketplace platform.
 Luxury fitness booking platform with member and admin workflows.
 
 **Features**
-**Features**
-- Luxury-first public experience with cinematic hero, premium branding, and conversion-focused CTAs
+- Luxury first public experience with cinematic hero, premium branding, and conversion focused CTAs
 - Full class discovery flow with category filtering, trainer context, capacity indicators, and booking shortcuts
-- 4-step booking journey (class, date/time, member details, confirmation) with a custom interactive calendar
+- 4 step booking journey (class, date/time, member details, confirmation) with a custom interactive calendar
 - Membership experience with clear tier comparison (Initiate, Adept, Sovereign), pricing, and benefit breakdowns
 - Role-based authentication with protected routes for members and admins
 - Member dashboard for upcoming classes, booking history, membership status, and profile management
 - Admin control panel for KPI tracking, monthly revenue insights, recent bookings, and member operations
-- Toast feedback, loading states, and polished micro-interactions for production-style UX
+- Toast feedback, loading states, and polished micro interactions for production-style UX
 - Fully responsive interface optimized for desktop and mobile
 
 **Tech Stack:** React 18, TypeScript, Vite, React Router, CSS Modules
@@ -130,7 +129,7 @@ Luxury fitness booking platform with member and admin workflows.
 
 ### Web Alchemist Labs Ecommerce
 **[Live Demo](https://webalchemistlabs-ecommerce.vercel.app/)**
-Production-style portfolio ecommerce app with storefront, payments, and admin tools.
+Production style portfolio ecommerce app with storefront, payments, and admin tools.
 **Features:**
 - Product catalog with category filtering, product detail views, and responsive storefront UI
 - Cart and checkout flow with Firebase-authenticated users
@@ -140,6 +139,6 @@ Production-style portfolio ecommerce app with storefront, payments, and admin to
 - Admin dashboard with KPIs (total orders, revenue, inventory units, low-stock alerts)
 - Product management (add, edit, delete) with image, stock, and pricing controls
 - Order management system with payment status, fulfillment status, and order detail view
-- 
+  
 **Tech Stack:** Next.js, React, TypeScript, Firebase Auth, Cloud Firestore, Stripe Checkout
   
