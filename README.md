@@ -128,8 +128,11 @@ Luxury fitness booking platform with member and admin workflows.
 ---
 
 ### Web Alchemist Labs Ecommerce
+
 **[Live Demo](https://webalchemistlabs-ecommerce.vercel.app/)**
+
 Production style portfolio ecommerce app with storefront, payments, and admin tools.
+
 **Features:**
 - Product catalog with category filtering, product detail views, and responsive storefront UI
 - Cart and checkout flow with Firebase-authenticated users
