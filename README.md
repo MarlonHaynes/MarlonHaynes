@@ -1,10 +1,16 @@
 # Marlon Haynes
 
-## Frontend / Full-Stack Developer
+## Full-Stack Developer
 
-I build modern SaaS platforms, scalable business applications, and responsive web experiences using React, Next.js, TypeScript, Firebase, PostgreSQL, and Tailwind CSS.
+🌐 Portfolio: https://marlonhaynes.vercel.app
 
-Focused on building production-grade applications with scalable architecture, strong UI/UX, and real-world business functionality.
+💼 LinkedIn: https://www.linkedin.com/in/marlon-haynes-3bb010391/
+
+📧 Email: marlon.haynes.dev@gmail.com
+
+I build production-grade business applications, SaaS platforms, and digital solutions using React, Next.js, TypeScript, Firebase, PostgreSQL, and modern cloud technologies.
+
+Focused on scalable architecture, API integrations, business workflows, authentication systems, and delivering real-world solutions that solve operational challenges.
 
 ---
 
@@ -137,15 +143,3 @@ Production-style portfolio ecommerce app with storefront, payments, and admin to
 - 
 **Tech Stack:** Next.js, React, TypeScript, Firebase Auth, Cloud Firestore, Stripe Checkout
   
-## Connect With Me
-
-**LinkedIn:**  
-https://www.linkedin.com/in/marlon-haynes-3bb010391/
-
-**Portfolio:**  
-https://marlonhaynes.vercel.app/
-
-**Email:**  
-marlon.haynes.dev@gmail.com
-
----
